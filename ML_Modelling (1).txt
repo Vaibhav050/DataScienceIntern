@@ -1,0 +1,76 @@
+Exploratory Data Analysis, Data Wrangling, Data Preprocessing..
+
+we learnt, Data processing using Pandas
+
+
+                                            Load Data
+
+Numerical columns data						Categorical columns data
+impute with Mean/Median						mode
+outlier processing -IQR
+dependent columns						dependent columns
+Scaling
+								encoding
+                                         combining the data
+					 test strategy
+
+
+
+
+Linear regression is process of drawing lines best possible way through all data points
+Practically it is not possible to draw a straight line through all data points.
+we will draw multiple lines and calculate the error(means the distance between a model line and each data point)
+calculate the sum of all the distances.
+whichever model line is having the minimum sum of distances we will select the model line as model.
+
+
+
+
+
+
+Gatla Durgesh Reddy
+
+Sameena Shaik  to  You (direct message) 8:43 AM
+Shaik sameena sulthana 
+
+Sreedhar Balina  to  You (direct message) 8:43 AM
+Sreedhar Balina 
+12th Batch
+
+Swathi Padmala  to  You (direct message) 8:43 AM
+Swathi Padmala
+
+Shravan Adapa  to  You (direct message) 8:43 AM
+A.Shravan
+
+Rahul Rokkam  to  You (direct message) 8:43 AM
+Rahul Rokkam
+
+Nomitha Vallabhadasu  to  You (direct message) 8:43 AM
+V.Nomitha
+
+Shirisha Amsangaru  to  You (direct message) 8:43 AM
+A shirisha 
+
+Jyothi Prathigudupu  to  You (direct message) 8:43 AM
+P.Jyothi
+
+Aditya Koushik  to  You (direct message) 8:43 AM
+Aditya koushik
+
+Rithwik kaithi  to  You (direct message) 8:43 AM
+Rithwik
+
+D Madhan Mohan  to  You (direct message) 8:43 AM
+D. Madhan Mohan,  Batch - 12
+
+Tejas Barai  to  You (direct message) 8:43 AM
+Tejas Barai
+
+Krishna Chaitanya 8:43 AM
+G. Krishna Chaitanya 
+cheerla Rajitha 8:44 AM
+Cheerla Rajitha
+
+pavan kumar 8:45 AM
+Pavankumar 
